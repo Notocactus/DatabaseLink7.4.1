@@ -1,0 +1,12 @@
+﻿  Database.cpp
+  DatabaseLink7.4.1.cpp
+C:\Users\Cactus\source\repos\DatabaseLink7.4.1\DatabaseLink7.4.1\DatabaseLink7.4.1.cpp(39,46): warning C4267: аргумент: преобразование из "size_t" в "pqxx::result::size_type"; возможна потеря данных
+C:\Users\Cactus\source\repos\DatabaseLink7.4.1\DatabaseLink7.4.1\DatabaseLink7.4.1.cpp(39,81): warning C4267: аргумент: преобразование из "size_t" в "pqxx::result::size_type"; возможна потеря данных
+C:\Users\Cactus\source\repos\DatabaseLink7.4.1\DatabaseLink7.4.1\DatabaseLink7.4.1.cpp(39,116): warning C4267: аргумент: преобразование из "size_t" в "pqxx::result::size_type"; возможна потеря данных
+C:\Users\Cactus\source\repos\DatabaseLink7.4.1\DatabaseLink7.4.1\DatabaseLink7.4.1.cpp(39,148): warning C4267: аргумент: преобразование из "size_t" в "pqxx::result::size_type"; возможна потеря данных
+  Создание кода
+  2 of 376 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DatabaseLink7.4.1.vcxproj -> C:\Users\Cactus\source\repos\DatabaseLink7.4.1\x64\Release\DatabaseLink7.4.1.exe
